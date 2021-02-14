@@ -1,12 +1,12 @@
 #+TITLE: LuisHGH/Wallpapers
 #+AUTHOR: Luis Henrique Gomes Higino
 
-* There is an Emacs command to do that
-** Author: Abraham Raji (https://commons.m.wikimedia.org/wiki/User:Avronr)
-** License: https://creativecommons.org/licenses/by-sa/4.0/deed.en
+** There is an Emacs command to do that
++ Author: Abraham Raji (https://commons.m.wikimedia.org/wiki/User:Avronr)
++ License: https://creativecommons.org/licenses/by-sa/4.0/deed.en
 [[./640px-There_is_an_Emacs_command_to_do_that.svg.png]]
 
-* The Editor that saves your soul
-** Author: Abraham Raji (https://commons.m.wikimedia.org/wiki/User:Avronr)
-** License: https://creativecommons.org/licenses/by-sa/4.0/deed.en
+** The Editor that saves your soul
++ Author: Abraham Raji (https://commons.m.wikimedia.org/wiki/User:Avronr)
++ License: https://creativecommons.org/licenses/by-sa/4.0/deed.en
 [[./640px-The_Editor_that_saves_your_soul.svg.png]]
